@@ -1,6 +1,7 @@
 from itertools import product
 
 def placaspatentes():
+  
     listaLetras = []
     letras = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     numeros = '0123456789'
